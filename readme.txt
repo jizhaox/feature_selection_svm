@@ -7,7 +7,7 @@ https://sites.google.com/site/drjizhao/
 
 1. Reference
 ===============
-[1] Ji Zhao, Liantao Wang, Ricardo Cabral, and Fernando De la Torre. Feature and Region Selection for Visual Learning. ArXiv: 1407.5245, 2014.
+[1] Ji Zhao, Liantao Wang, Ricardo Cabral, and Fernando De la Torre. Feature and Region Selection for Visual Learning. IEEE Transactions on Image Processing, 25(3): 1084 - 1094, 2016.
 
 [2] Minh Hoai Nguyen, Fernando De la Torre. Optimal Feature Selection for Support Vector Machines. Pattern Recognition, 43(3), 584 - 591, 2010.
 
@@ -42,16 +42,3 @@ Note: CVX and VLFeat toolbox are optional. These toolboxs are needed if approxim
 (2) This code is tested on 32-bit Windows 7, Matlab 8.3 (2014a), IPOPT 3.11.8 pre-compiled mex files, libSVM 3.20, CVX 2.1 and VLFeat 0.9.20 binary package. Mex files for libSVM is compiled by Visual Studio 2013.
 
 (3) This version is 0.9.0. Released on 11/26/2015.
-
-
-
-
-
-
-
-
-
-
-
-
-
